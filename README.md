@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jinbao.
-- 👀 I’m interested in c/c++.
-- 🌱 I’m currently learning algorithm in ML.
+- 👀 I’m interested in unreal engine, computer vision and machine learning.
+- 🌱 Nice to meet you, bro.🎉
 - 💞️ 
 - 📫 tianjinbaoemail@163.com
 
